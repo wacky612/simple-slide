@@ -1,0 +1,19 @@
+html {
+    height: 100%;
+}
+
+section {
+    display: none;
+}
+
+section.active {
+    display: block;
+}
+
+.pause {
+    opacity: 0;
+}
+
+.pauseactive {
+    opacity: 1;
+}

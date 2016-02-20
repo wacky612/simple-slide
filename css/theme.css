@@ -1,0 +1,60 @@
+body {
+    background-color: aliceblue;
+    margin: 0 1em;
+}
+
+h1 {
+    margin: 0.5em 0;
+}
+
+h1.title {
+    text-align: center;
+    margin: 3em;
+}
+
+h2.author {
+    text-align: center;
+}
+
+p {
+    margin: 0.3em 0;
+}
+
+li {
+    margin: 0.3em 0;
+}
+
+pre {
+    background-color: lightcyan;
+    border-style: solid;
+    border-color: navy;
+    padding: 0.3em;
+
+}
+
+table {
+    border-collapse: collapse;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+th {
+    background-color: lightpink;
+    border-style: solid;
+    border-color: maroon;
+    padding: 0.3em;
+}
+
+td {
+    background-color: lavenderblush;
+    border-style: solid;
+    border-color: maroon;
+    padding: 0.3em;
+}
+
+blockquote {
+    background-color: mintcream;
+    border-style: solid;
+    border-color: darkgreen;
+    padding: 0.3em;
+}
