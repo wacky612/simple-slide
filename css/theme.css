@@ -17,6 +17,7 @@ h2.author {
 }
 
 p {
+    text-indent: 1em;
     margin: 0.3em 0;
 }
 
