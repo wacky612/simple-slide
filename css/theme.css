@@ -63,3 +63,7 @@ blockquote {
     border-color: darkgreen;
     padding: 0.3em;
 }
+
+strong {
+    color: red;
+}
